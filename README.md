@@ -36,6 +36,8 @@ This project uses the **spiral dataset** from the [`nnfs`](https://github.com/Se
 - 3 classes arranged in a spiral shape
 - Easy to visualize decision boundaries
 - Ideal for testing gradient-based optimization and activation functions
+![Spiral Dataset](spiral_dataset.PNG)
+
 
 The dataset is loaded using:
 ```python
